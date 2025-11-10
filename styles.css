@@ -1,0 +1,33 @@
+body {
+    /* background-image: url(images/bg\ image.jpg); */
+    background-size: cover;
+    color: #251717;
+    margin: 12px 24px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+.picture { 
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px 0;    
+}
+
+.bio {
+    width: 600px;
+    margin-top: 16px;
+}
+
+.description {
+    width: 400px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
